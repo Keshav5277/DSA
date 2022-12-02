@@ -8,6 +8,7 @@ int minCoins(int coins[], int N, int amount)
     {
         if (coins[i] <= amount)
         {
+            
             int noC = floor(amount / coins[i]);
             res = res + noC;
             amount = amount - (noC * coins[i]);
