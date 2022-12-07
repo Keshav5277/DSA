@@ -1,2 +1,6 @@
 Stock Buy and Sell Problem
 
+
+
+28 : Exercise problem : weighted sum fro ml to r
+29 : Exercise problem : ckeck if array can be divided into 3 parts with equal sum

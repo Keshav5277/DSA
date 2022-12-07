@@ -1,0 +1,2 @@
+3_CountSetBits : LookUp table solutiion (saving to do some other time just dont want to do right now)
+7_PowerSet : just dont feel like doing it now
