@@ -1,4 +1,5 @@
 // #########Euclidean Algorithm###########
+//            Efficient solution it automatically get the bigger input at the 1st position
 #include <bits/stdc++.h>
 using namespace std;
 int gcd(int a, int b)
